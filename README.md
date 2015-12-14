@@ -10,3 +10,5 @@
 <a href="http://getuikit.com/">UIkit</a>: A modular front-end framework for developing fast and powerful web interfaces.<br>
 <a href="http://semantic-ui.com/">Semantic UI</a>: A development framework that helps create beautiful, responsive layouts.<br>
 <a href="http://cssdb.co/">CSSDB</a>: A curated collection of great CSS, Sass, LESS and Stylus libraries.<br>
+<a href="https://daneden.github.io/animate.css">Animate.css</a>: A cross-browser library of CSS animations.<br>
+<a href="http://materializecss.com/">Materialize</a>: Materialize, a CSS Framework based on Material Design.<br>
