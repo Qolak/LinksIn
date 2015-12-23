@@ -15,3 +15,4 @@
 <a href="http://cssdb.co/">CSSDB</a>: A curated collection of great CSS, Sass, LESS and Stylus libraries.<br>
 <a href="https://daneden.github.io/animate.css">Animate.css</a>: A cross-browser library of CSS animations.<br>
 <a href="http://materializecss.com/">Materialize</a>: Materialize, a CSS Framework based on Material Design.<br>
+<a href="http://www.material-ui.com/">Material UI for React</a>: A Set of React Components that Implement Google's Material Design
